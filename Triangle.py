@@ -16,3 +16,5 @@ a3=math.degrees(math.acos(((side2**2)+(side1**2)-(side3**2))/(2*side2*side1)))
 print("First angle is :",a1)
 print("Second angle is :",a2)
 print("Third angle is :",a3)
+
+print("this is a test")
